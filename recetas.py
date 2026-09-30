@@ -14,6 +14,15 @@ def receta_pasta():
     print("3. Mezclar todo y servir caliente.")
 
 # Agrega tu receta debajo de esta línea
+
+def arroz_c_leche():
+    print(" Receta: Arroz con leche")
+    print("Ingredientes: arroz, canela, leche entera, leche condensada, leche evaporada")
+    print("Pasos:")
+    print("1. Hervir el arroz con el agua y la canela hasta que el arroz esté suave.")
+    print("2. Agregar las leches y cocinar a fuego lento moviendo constantemente hatsa que espese")
+    print("3. Servir y disfrutar.")
+
 # Ejemplo:
 # def receta_tacos():
 #     print(" Receta: Tacos de pollo")
